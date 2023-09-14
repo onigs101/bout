@@ -1,0 +1,87 @@
+.per{
+   margin-left: 500px;
+   height: 60px;
+   border-radius: 10px;
+   margin-top: 10px;
+}
+p{
+    margin-left: 450px;
+}
+a{
+    text-decoration: none;
+    color: black;
+}
+.po{
+    background-color: lightgray;
+    padding: 15px;
+    border-radius: 5px;
+    width: 30px;
+    margin-left: 420px;
+}
+.ers{
+    background-color: lightgray;
+    padding: 15px;
+    border-radius: 5px;
+    width: 55px;
+    margin-left: 500px; 
+    margin-top: -65px; 
+}
+.ing{
+    background-color: lightgray;
+    padding: 15px;
+    border-radius: 5px;
+    width: 55px;
+    margin-left: 600px; 
+    margin-top: -65px; 
+}
+.pics{
+    height: 500px;
+    width: 500px;
+    margin-left: 330px;
+}
+.on{
+    height: 150px;
+    width: 150px;
+    margin-left: 10px;
+    margin-top: 10px;
+}
+.one{
+    height: 150px;
+    width: 300px; 
+    margin-left: 10px;
+    margin-top: 10px;
+}
+.tw{
+    height: 150px;
+    width: 300px;
+    margin-left: 10px;
+    margin-top: 10px;
+}
+.three{
+    width: 150px;
+    margin-left: 330px;
+    margin-top: -160px;
+    height: 300px;
+}
+.the{
+    width: 150px;
+    margin-left: 10px;
+    margin-top: 10px;
+    height: 300px;
+    margin-left: -0px;
+}
+.fo{
+    width: 150px;
+    height: 150px;
+    margin-left: 10px;
+    margin-top: -150px;
+}
+.last{
+    height: 150px;
+    width: 150px;
+}
+.lasta{
+    width: 320px;
+    height: 170px;
+    margin-top: -140px;
+}
